@@ -1,5 +1,6 @@
 ## 1. prettier와 eslint 설정 과정에서의 오류.
-```PS D:\Virtual-Keyboard> npm i -D eslint-config-prettier eslint-plugin-prettier
+```js
+PS D:\Virtual-Keyboard> npm i -D eslint-config-prettier eslint-plugin-prettier
 npm ERR! code ERESOLVE
 npm ERR! ERESOLVE unable to resolve dependency tree
 npm ERR! ERESOLVE unable to resolve dependency tree
@@ -28,3 +29,6 @@ npm ERR! C:\Users\mkyeo\AppData\Local\npm-cache\_logs\2024-09-29T11_02_23_205Z-e
 
 npm ERR! A complete log of this run can be found in:
 npm ERR!     C:\Users\mkyeo\AppData\Local\npm-cache\_logs\2024-09-29T11_02_23_205Z-debug-0.log```
+
+
+
